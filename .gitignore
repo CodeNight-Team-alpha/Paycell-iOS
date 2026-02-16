@@ -1,0 +1,17 @@
+xcuserdata/
+**/*.xcuserstate
+*.xcworkspace/xcuserdata/
+
+DerivedData/
+build/
+
+.build/
+.swiftpm/
+
+Pods/
+Carthage/Build/
+
+.DS_Store
+
+*.log
+*.swp
